@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikeshtamangghising/everestwindowview.git/static/css/main.fbc2bd47.css",
-    "main.js": "/nikeshtamangghising/everestwindowview.git/static/js/main.186a4b55.js",
-    "static/js/488.78823d89.chunk.js": "/nikeshtamangghising/everestwindowview.git/static/js/488.78823d89.chunk.js",
-    "index.html": "/nikeshtamangghising/everestwindowview.git/index.html",
-    "main.fbc2bd47.css.map": "/nikeshtamangghising/everestwindowview.git/static/css/main.fbc2bd47.css.map",
-    "main.186a4b55.js.map": "/nikeshtamangghising/everestwindowview.git/static/js/main.186a4b55.js.map",
-    "488.78823d89.chunk.js.map": "/nikeshtamangghising/everestwindowview.git/static/js/488.78823d89.chunk.js.map"
+    "main.css": "/nikeshtamangghising/everestwindowview/static/css/main.fbc2bd47.css",
+    "main.js": "/nikeshtamangghising/everestwindowview/static/js/main.d1f891b7.js",
+    "static/js/488.78823d89.chunk.js": "/nikeshtamangghising/everestwindowview/static/js/488.78823d89.chunk.js",
+    "index.html": "/nikeshtamangghising/everestwindowview/index.html",
+    "main.fbc2bd47.css.map": "/nikeshtamangghising/everestwindowview/static/css/main.fbc2bd47.css.map",
+    "main.d1f891b7.js.map": "/nikeshtamangghising/everestwindowview/static/js/main.d1f891b7.js.map",
+    "488.78823d89.chunk.js.map": "/nikeshtamangghising/everestwindowview/static/js/488.78823d89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbc2bd47.css",
-    "static/js/main.186a4b55.js"
+    "static/js/main.d1f891b7.js"
   ]
 }
